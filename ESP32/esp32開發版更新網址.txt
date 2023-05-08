@@ -1,0 +1,1 @@
+https://github.com/espressif/arduino-esp32/releases/download/2.0.3/package_esp32_index.json
